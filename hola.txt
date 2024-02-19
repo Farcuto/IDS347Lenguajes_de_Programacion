@@ -1,0 +1,13 @@
+src/Main.hx:6: Hello World!
+src/Main.hx:7: 
+
+
+
+src/Main.hx:12: -cp
+src/Main.hx:13: src
+src/Main.hx:14: -main
+src/Main.hx:15: Main
+src/Main.hx:16: --interp
+src/Main.hx:17: null
+src/Main.hx:18: null
+src/Main.hx:19: null
